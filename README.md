@@ -1,4 +1,4 @@
-Repository for code modified in my 2017-Jan-12 blog post:
+Repository for code modified in my 2018-Jan-12 blog post:
 
 ### [Persistent Login with IdentityServer4](https://mcguirev10.com/2018/01/12/persistent-login-with-identityserver.html)
 
