@@ -4,7 +4,7 @@ Repository for code modified in my 2018-Jan-12 blog post:
 
 ---
 
-The modifications are meant to be used with the work from my 2017-Jan-02 and Jan-05 posts:
+The modifications are meant to be used with the work from my 2018-Jan-02 and Jan-05 posts:
 
 ### [IdentityServer4 Persistence Without Entity Framework](https://mcguirev10.com/2018/01/02/identityserver4-without-entity-framework.html)
 
